@@ -7,7 +7,7 @@
         alt="vue"
         class="logo"
       />
-      <h1>Welcome to Me!</h1>
+      <h1>Welcome to You!</h1>
     </div>
     <div class="bottom">
       To get started, edit <code>./src/components/App.vue</code> and save to reload.<br/>
